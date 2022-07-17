@@ -452,7 +452,7 @@
 <color name="miuix_appcompat_svg_icon_color_red_normal_dark">@android:color/system_accent2_400</color>
 <color name="miuix_appcompat_svg_icon_color_red_normal_light">@android:color/system_accent2_400</color>
 <color name="miuix_appcompat_text_color_primary_light">@android:color/system_neutral1_1000</color>
-<color name="miuix_appcompat_water_box_bg_color">@android:color/system_neutral1_50</color>
+<color name="miuix_appcompat_water_box_bg_color">@android:color/system_neu1_50</color>
 <color name="miuix_appcompat_white">@android:color/system_neutral1_10</color>
 <color name="miuix_picker_datetime_text_color">@android:color/system_accent1_400</color>
 <color name="miuix_picker_view_color">@android:color/system_neutral1_1000</color>
@@ -541,7 +541,7 @@
 <color name="privacy_list_header_line">@android:color/system_accent2_100</color>
 <color name="privacy_list_header_summary">@android:color/system_neutral1_100</color>
 <color name="privacy_list_header_title">@android:color/system_neutral1_500</color>
-<color name="progress_card_view_background_color">@android:color/system_neutral1_50</color>
+<color name="progress_card_view_background_color">@android:color/system_accent1_50</color>
 <color name="provision_button_next_normal">@android:color/system_accent1_400</color>
 <color name="qr_code_corner_line_color">@android:color/system_neutral1_10</color>
 <color name="qr_code_focused_corner_line_color">@android:color/system_accent1_300</color>

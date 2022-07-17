@@ -18,6 +18,7 @@ for i in $(ls source); do
 		rm -rf "apk_out/$i.apk.idsig"
 	else
 		echo "$i : Failure"
+		exit 0
 	fi
 done
 

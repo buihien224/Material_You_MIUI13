@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="qs_control_big_tile_blue_bg">@android:color/system_accent1_300</color>
+    <color name="qs_control_big_tile_green_bg">@android:color/system_accent3_700</color>
+    <color name="qs_control_tile_icon_enable_color">@android:color/system_accent1_500</color>
+    <color name="qs_tile_icon_bg_enabled_color">@android:color/system_accent1_500</color>
+    <color name="qs_detail_item_selected_color">@android:color/system_accent1_500</color>
+    <color name="cc_qs_tile_icon_bg_color_active_battery_related">@android:color/system_accent1_500</color>
+    <color name="qs_control_brightness_low_color">#ffffffff</color>
+    <color name="qs_control_brightness_progress_color">@android:color/system_accent1_500</color>
+    <color name="qs_control_brightness_secondary_progress_color">#1fffffff</color>
+    <color name="qs_panel_background_color">#1fffffff</color>
+    <color name="qs_brightness_background_color">#1fffffff</color>
+    <color name="control_center_universal_enabled_color">@android:color/system_accent1_500</color>
+    <color name="qs_card_cellular_color">@android:color/system_accent3_300</color>
+    <color name="qs_card_enabled_color">@android:color/system_accent1_300</color>
+    <color name="miplay_detail_item_selected_color">@android:color/system_accent3_700</color>
+    <color name="miplay_volume_bar_primary_color">@android:color/system_accent3_700</color>
+    <color name="toggle_slider_progress_color">@android:color/system_accent1_200</color>
+    <color name="qs_enabled_color">@android:color/system_accent1_300</color>
+</resources>

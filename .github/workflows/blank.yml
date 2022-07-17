@@ -1,0 +1,33 @@
+name: MTY13
+
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+       - name: Checkout
+         uses: actions/checkout@v2
+       
+       - name: Setting up
+         run: |
+            sudo apt-get install -y apksigner
+            
+       - name: Set up TIMEZONE 
+         run: |
+            cd $GITHUB_WORKSPACE
+            echo "Setting Viename timezone"
+            sudo timedatectl set-timezone Asia/Ho_Chi_Minh
+            
+            
+       - name : RUNNING
+         run: |
+            sudo chmod 777 -R make.sh
+            ./make.sh ${{ github.actor }}  
+            echo "FILE_NAME=${{ github.actor }}_$(date +"%H%M%d%m")_MTYM13.zip" >> $GITHUB_ENV
+            
+       - uses: actions/upload-artifact@v3
+         with:
+          name: ${{ env.FILE_NAME }}
+          path: module_temp/*

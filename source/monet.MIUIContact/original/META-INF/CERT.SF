@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+Created-By: Apktool M 2.4.0-220712(2022071202)
+SHA1-Digest-Manifest: YkzIWEa4v6z+HN3h4dy8FqOfuw0=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: AbiZxGipSk28w0KiHT1LUFUMBbY=
+
+Name: res/drawable/send_call_ic.xml
+SHA1-Digest: ZRYQrV0ImrHDr9NKjzioZYdii9U=
+
+Name: res/drawable/send_sms_ic.xml
+SHA1-Digest: t55TpstopTQL26lnYPXtrsL5jh0=
+
+Name: res/drawable/send_video_ic.xml
+SHA1-Digest: y4LTleJv0xQdRdpBn8y46dPV13o=
+
+Name: resources.arsc
+SHA1-Digest: 2Fk0brE1D4IXPxgGKENyCjbG09s=
+

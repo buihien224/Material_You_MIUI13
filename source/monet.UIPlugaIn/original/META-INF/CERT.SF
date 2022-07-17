@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+Created-By: Apktool M 2.4.0-220712(2022071202)
+SHA1-Digest-Manifest: wIm/Ckyq0hatjmhy3751V1ktsgY=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: AQF9XUYwavuBuLlHnZx3SvANApU=
+
+Name: res/drawable/ic_brightness_slider.xml
+SHA1-Digest: ACZZkRS5Fns+FbyLycDM1brkWgk=
+
+Name: res/drawable/ic_volume_slider_media_disabled.xml
+SHA1-Digest: tWNKeWfACejPrC8ovkhyPU8JwJE=
+
+Name: res/drawable/ic_volume_slider_media_enabled.xml
+SHA1-Digest: 8I52GKthA2aR6hwfq3nAJ/MGupg=
+
+Name: resources.arsc
+SHA1-Digest: 6iahsTGQgf8Mj9fJusfkBti3jPs=
+

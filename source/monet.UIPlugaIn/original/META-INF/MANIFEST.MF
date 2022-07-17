@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: TBoHkZoUHJq8ACZbS9pILXs3JE0=
+
+Name: res/drawable/ic_brightness_slider.xml
+SHA1-Digest: OZHJTXg0zVfh7cOR7a56gPQSjrQ=
+
+Name: res/drawable/ic_volume_slider_media_disabled.xml
+SHA1-Digest: 0Lshqe1I2N5xP0cvZJnYFyOAir4=
+
+Name: res/drawable/ic_volume_slider_media_enabled.xml
+SHA1-Digest: yIHiE49Jal9WQeNbdifksw3BdS4=
+
+Name: resources.arsc
+SHA1-Digest: oJL9A3n9zV9ZYuNZ+pPLFseqAaM=
+

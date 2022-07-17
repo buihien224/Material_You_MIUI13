@@ -19,8 +19,11 @@
     <color name="miuix_appcompat_alphabet_indexer_highlight_text_color">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_alphabet_indexer_overlay_text_color">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_alphabet_indexer_overlay_text_color_dark">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_button_bg_color_warn_normal_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_button_bg_color_warn_normal_light">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_button_bg_primary_color_normal_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_button_bg_primary_color_normal_light">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_checkbox_btn_on_background_color_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_checkbox_btn_on_background_color_light">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_dropdown_popup_list_text_color_checked_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_dropdown_popup_list_text_color_checked_light">@android:color/system_accent1_400</color>
@@ -30,6 +33,7 @@
     <color name="miuix_appcompat_filter_sort_tab_view_text_selected">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_highlight_normal_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_highlight_normal_light">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_ic_visible_fillColor_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_ic_visible_fillColor_light">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_list_secondary_text_color_checked_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_list_secondary_text_color_checked_light">@android:color/system_accent1_400</color>
@@ -40,7 +44,9 @@
     <color name="miuix_appcompat_number_picker_highlight_color_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_number_picker_label_color">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_number_picker_label_color_dark">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_progress_primary_color_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_search_action_mode_cancel_text_color_normal">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_sliding_button_bar_on_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_sliding_button_bar_on_light">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_svg_icon_color_blue_selected_dark">@android:color/system_accent1_400</color>
     <color name="miuix_appcompat_svg_icon_color_blue_selected_light">@android:color/system_accent1_400</color>

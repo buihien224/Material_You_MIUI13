@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <color name="miuix_appcompat_action_bar_tab_collapse_text_color_normal_light">@android:color/system_neutral1_1000</color>
+    <color name="miuix_appcompat_action_bar_tab_collapse_text_color_pressed_dark">@android:color/system_accent1_200</color>
+    <color name="miuix_appcompat_action_bar_tab_collapse_text_color_pressed_light">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_action_bar_tab_collapse_text_color_selected_dark">@android:color/system_accent1_200</color>
+    <color name="miuix_appcompat_action_bar_tab_collapse_text_color_selected_light">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_action_bar_tab_collapse_text_dark">res/color/miuix_appcompat_action_bar_tab_collapse_text_dark.xml</color>
+    <color name="miuix_appcompat_action_bar_tab_collapse_text_light">res/color/miuix_appcompat_action_bar_tab_collapse_text_light.xml</color>
+    <color name="miuix_appcompat_action_bar_tab_text_color_disable_dark">@android:color/system_accent1_100</color>
+    <color name="miuix_appcompat_action_bar_tab_text_color_disable_light">@android:color/system_neutral1_900</color>
+    <color name="miuix_appcompat_action_bar_tab_text_color_normal_dark">#80ffffff</color>
+    <color name="miuix_appcompat_action_bar_tab_text_color_normal_light">@android:color/system_neutral1_1000</color>
+    <color name="miuix_appcompat_action_bar_tab_text_color_pressed_dark">@android:color/system_accent1_100</color>
+    <color name="miuix_appcompat_action_bar_tab_text_color_pressed_light">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_action_bar_tab_text_color_selected_dark">@android:color/system_accent1_200</color>
+    <color name="miuix_appcompat_action_bar_tab_text_color_selected_light">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_action_bar_tab_text_dark">res/color/miuix_appcompat_action_bar_tab_text_dark.xml</color>
+    <color name="miuix_appcompat_action_bar_tab_text_light">res/color/miuix_appcompat_action_bar_tab_text_light.xml</color>
+    <color name="miuix_appcompat_action_bar_title_settings_text_color_light">@android:color/system_accent1_50</color>
+    <color name="miuix_appcompat_action_bar_title_text_color_dark">@android:color/system_accent1_200</color>
+    <color name="miuix_appcompat_action_bar_title_text_color_disabled_dark">@android:color/system_accent1_100</color>
+    <color name="miuix_appcompat_action_bar_title_text_color_disabled_light">@android:color/system_neutral1_900</color>
+    <color name="miuix_appcompat_action_bar_title_text_color_light">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_action_bar_title_text_dark">res/color/miuix_appcompat_action_bar_title_text_dark.xml</color>
+    <color name="miuix_appcompat_action_bar_title_text_light">res/color/miuix_appcompat_action_bar_title_text_light.xml</color>
+    
+    
 <color name="abc_input_method_navigation_guard">@android:color/black</color>
 <color name="abc_search_url_text_normal">@android:color/system_accent3_200</color>
 <color name="abc_search_url_text_pressed">@android:color/black</color>
 <color name="abc_search_url_text_selected">@android:color/black</color>
 <color name="action_bar_action_mode_bg">@android:color/white</color>
-<color name="action_bar_tab_text_color_normal_light">@android:color/system_neutral1_1000</color>
-<color name="action_bar_tab_text_color_selected_light">@android:color/system_accent1_300</color>
+<color name="action_bar_tab_text_color_disable_light">@android:color/system_neutral1_1000</color>
+<color name="action_bar_tab_text_color_normal_light">@android:color/system_accent1_400</color>
+<color name="action_bar_tab_text_color_selected_light">@android:color/system_accent1_400</color>
 <color name="actionbar_bg_all">@android:color/system_neutral1_10</color>
 <color name="actionbar_search_box_bg">@android:color/white</color>
 <color name="ad_item_close_button_bg">@android:color/system_neutral1_10</color>
@@ -73,7 +100,7 @@
 <color name="drag_text_color">@android:color/system_neutral1_10</color>
 <color name="error_color_material_dark">@android:color/system_accent2_300</color>
 <color name="error_color_material_light">@android:color/system_accent2_300</color>
-<color name="fab_bg_color">@android:color/system_accent1_300</color>
+<color name="fab_bg_color">@android:color/system_accent1_400</color>
 <color name="feedback_text_color">@android:color/system_accent1_300</color>
 <color name="flat_list_background">@android:color/system_accent1_50</color>
 <color name="flat_list_title_color">@android:color/system_neutral1_1000</color>
@@ -347,12 +374,12 @@
 <color name="text_color_black">@android:color/system_neutral1_1000</color>
 <color name="text_color_bottom_menu_button">@android:color/system_accent1_400</color>
 <color name="text_color_card_name">@android:color/system_neutral1_1000</color>
-<color name="text_color_highlight">@android:color/system_accent2_300</color>
-<color name="text_color_highlight_inverse">@android:color/system_accent2_300</color>
-<color name="text_color_message_alert_highlight">@android:color/system_accent1_300</color>
-<color name="text_color_message_alert_highlight_pressed">@android:color/system_accent1_300</color>
-<color name="text_color_message_in_highlight">@android:color/system_accent1_300</color>
-<color name="text_color_message_in_highlight_pressed">@android:color/system_accent1_300</color>
+<color name="text_color_highlight">@android:color/system_accent1_400</color>
+<color name="text_color_highlight_inverse">@android:color/system_accent1_400</color>
+<color name="text_color_message_alert_highlight">@android:color/system_accent1_400</color>
+<color name="text_color_message_alert_highlight_pressed">@android:color/system_accent1_500</color>
+<color name="text_color_message_in_highlight">@android:color/system_accent1_400</color>
+<color name="text_color_message_in_highlight_pressed">@android:color/system_accent1_500</color>
 <color name="text_color_message_out">@android:color/system_neutral1_10</color>
 <color name="text_color_message_out_highlight">@android:color/system_neutral1_10</color>
 <color name="text_color_message_out_highlight_pressed">@android:color/system_neutral1_10</color>

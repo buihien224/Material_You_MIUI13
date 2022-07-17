@@ -427,7 +427,7 @@
 <color name="miuix_appcompat_number_picker_highlight_region_bg_color">@android:color/system_neutral1_10</color>
 <color name="miuix_appcompat_number_picker_label_color">@android:color/system_accent1_400</color>
 <color name="miuix_appcompat_number_picker_label_color_dark">@android:color/system_accent1_400</color>
-<color name="miuix_appcompat_progressBackground_light">@android:color/system_accent3_10</color>
+<color name="miuix_appcompat_progressBackground_light">@android:color/system_accent3_50</color>
 <color name="miuix_appcompat_progress_disable_color_light">@android:color/system_neutral1_50</color>
 <color name="miuix_appcompat_progress_primary_color_dark">@android:color/system_accent1_400</color>
 <color name="miuix_appcompat_progress_primary_color_light">@android:color/system_accent1_400</color>
@@ -773,7 +773,7 @@
 <color name="voice_access_radio_preference_title_unselected_color">@android:color/system_neutral1_1000</color>
 <color name="volume_icon_color">@android:color/system_neutral1_50</color>
 <color name="volume_icon_color_obvious">@android:color/system_accent2_400</color>
-<color name="volume_seekbar_bg_color">@android:color/system_accent3_10</color>
+<color name="volume_seekbar_bg_color">@android:color/system_accent3_50</color>
 <color name="volume_seekbar_progress_color">@android:color/system_accent1_400</color>
 <color name="warning_text_color">@android:color/system_accent2_400</color>
 <color name="whiltealpha100">@android:color/system_neutral1_10</color>

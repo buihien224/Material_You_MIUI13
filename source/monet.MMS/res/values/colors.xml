@@ -129,9 +129,9 @@
 <color name="message_bubble_in_attachment_bg_color">@android:color/system_neutral1_50</color>
 <color name="message_bubble_in_bg_p">@android:color/system_accent1_50</color>
 <color name="message_bubble_in_security_bg_n">@android:color/system_accent2_10</color>
-<color name="message_bubble_in_security_border">@android:color/system_accent2_400</color>
-<color name="message_bubble_out_bg_n">@android:color/system_accent3_300</color>
-<color name="message_bubble_out_bg_p">@android:color/system_accent3_200</color>
+<color name="message_bubble_in_security_border">@android:color/system_accent1_400</color>
+<color name="message_bubble_out_bg_n">@android:color/system_accent1_300</color>
+<color name="message_bubble_out_bg_p">@android:color/system_accent1_200</color>
 <color name="message_edit_bottom_panel_bg">@android:color/white</color>
 <color name="message_risk_line_color">@android:color/system_neutral2_200</color>
 <color name="message_risk_tips_color">@android:color/system_accent2_500</color>

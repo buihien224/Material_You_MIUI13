@@ -45,4 +45,7 @@
     <color name="switch_view_dot_view_bg">@android:color/system_accent1_400</color>
     <color name="sync_text_line_action_color">@android:color/system_accent1_400</color>
     <color name="textcolor_status_sending">@android:color/system_accent1_400</color>
+    <color name="action_bar_immerse_tab_text_color_pressed">@android:color/system_accent1_300</color>
+    <color name="action_bar_tab_text_color_pressed_light">@android:color/system_accent1_300</color>
+    <color name="action_bar_tab_text_color_selected_light">@android:color/system_accent1_300</color>
 </resources>

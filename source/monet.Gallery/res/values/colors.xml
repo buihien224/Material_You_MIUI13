@@ -1,3 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <color name="album_page_grid_item_background">@android:color/white</color>
+    <color name="background_floating_material_light">@android:color/white</color>
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+    <color name="corner">@android:color/white</color>
+    <color name="custom_list_item_bg_color">@android:color/white</color>
+    <color name="foreground_material_dark">@android:color/white</color>
+    <color name="foreground_material_light">@android:color/black</color>
+    <color name="movie_bottom_panel_background">@android:color/white</color>
+    <color name="primary_dark_material_dark">@android:color/black</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <color name="album_page_grid_item_background">@android:color/white</color>
+    <color name="background_floating_material_light">@android:color/white</color>
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+    <color name="corner">@android:color/white</color>
+    <color name="custom_list_item_bg_color">@android:color/white</color>
+    <color name="foreground_material_dark">@android:color/white</color>
+    <color name="foreground_material_light">@android:color/black</color>
+    <color name="miuix_appcompat_button_bg_color_warn_normal_dark">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_button_bg_primary_color_normal_dark">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_checkbox_btn_on_background_color_dark">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_ic_visible_fillColor_dark">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_progress_primary_color_dark">@android:color/system_accent1_400</color>
+    <color name="miuix_appcompat_sliding_button_bar_on_dark">@android:color/system_accent1_400</color>
+    <color name="movie_bottom_panel_background">@android:color/white</color>
+    <color name="primary_dark_material_dark">@android:color/black</color>
 </resources>

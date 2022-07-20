@@ -45,7 +45,7 @@
     <color name="autocomplete_divider_color">@android:color/system_neutral1_100</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="black">@android:color/system_neutral1_1000</color>
-    <color name="black_00">@android:color/system_neutral2_100000</color>
+    <color name="black_00">@android:color/system_neutral2_1000</color>
     <color name="black_03">@android:color/system_neutral2_50</color>
     <color name="black_05">@android:color/system_neutral1_50</color>
     <color name="black_06">@android:color/system_neutral2_50</color>
@@ -312,7 +312,7 @@
     <color name="miuix_appcompat_edit_text_border_color_error">@android:color/system_accent2_400</color>
     <color name="miuix_appcompat_edit_text_dialog_bg_solid_dark">@android:color/system_neutral2_800</color>
     <color name="miuix_appcompat_edit_text_dialog_bg_solid_light">@android:color/system_accent1_50</color>
-    <color name="miuix_appcompat_edit_text_dialog_bg_stroke_dark">@android:color/system_neutral2_100000</color>
+    <color name="miuix_appcompat_edit_text_dialog_bg_stroke_dark">@android:color/system_neutral2_1000</color>
     <color name="miuix_appcompat_edit_text_dialog_bg_stroke_light">@android:color/system_neutral2_50</color>
     <color name="miuix_appcompat_edit_text_dialog_color_disabled_light">@android:color/system_neutral2_300</color>
     <color name="miuix_appcompat_edit_text_dialog_color_normal_light">@android:color/system_neutral1_1000</color>
@@ -441,7 +441,7 @@
     <color name="miuix_appcompat_svg_icon_color_red_normal_dark">@android:color/system_accent2_400</color>
     <color name="miuix_appcompat_svg_icon_color_red_normal_light">@android:color/system_accent2_400</color>
     <color name="miuix_appcompat_text_color_primary_light">@android:color/system_neutral1_1000</color>
-    <color name="miuix_appcompat_transparent">@android:color/system_neutral2_100000</color>
+    <color name="miuix_appcompat_transparent">@android:color/system_neutral2_1000</color>
     <color name="miuix_appcompat_white">@android:color/system_accent1_10</color>
     <color name="miuix_blurdrawable_view_fg_dark">@android:color/system_neutral2_400</color>
     <color name="miuix_folme_color_touch_tint">@android:color/system_neutral2_50</color>
@@ -481,7 +481,7 @@
     <color name="miuix_sbl_locked_gray">@android:color/system_neutral2_700</color>
     <color name="miuix_sbl_locked_text_blue">@android:color/system_accent1_400</color>
     <color name="miuix_sbl_locked_text_gray">@android:color/system_neutral2_700</color>
-    <color name="miuix_sbl_transparent">@android:color/system_neutral2_100000</color>
+    <color name="miuix_sbl_transparent">@android:color/system_neutral2_1000</color>
     <color name="miuix_sbl_white">@android:color/system_accent1_10</color>
     <color name="miuix_search_cancel_btn_text_color_pressed">@android:color/system_accent1_100</color>
     <color name="miuix_search_divider_line_color_light">@android:color/system_neutral2_100</color>
@@ -507,7 +507,7 @@
     <color name="mtrl_scrim_color">@android:color/system_neutral2_100</color>
     <color name="mtrl_textinput_default_box_stroke_color">@android:color/system_neutral2_100</color>
     <color name="mtrl_textinput_disabled_color">@android:color/system_neutral2_100</color>
-    <color name="mtrl_textinput_focused_box_stroke_color">@android:color/system_neutral2_100000</color>
+    <color name="mtrl_textinput_focused_box_stroke_color">@android:color/system_neutral2_1000</color>
     <color name="mtrl_textinput_hovered_box_stroke_color">@android:color/system_neutral1_900</color>
     <color name="new_event_shadow">@android:color/system_neutral2_50</color>
     <color name="notification_icon_bg_color">@android:color/system_neutral2_200</color>
@@ -573,7 +573,7 @@
     <color name="tooltip_background_dark">@android:color/system_neutral1_600</color>
     <color name="train_arrive_station_bg_color_selected">@android:color/system_accent1_300</color>
     <color name="train_event_light_text_color">@android:color/system_neutral2_600</color>
-    <color name="transparent">@android:color/system_neutral2_100000</color>
+    <color name="transparent">@android:color/system_neutral2_1000</color>
     <color name="usage_new_home_action_bar_active_color">@android:color/system_neutral2_900</color>
     <color name="usage_new_home_action_bar_unactive_color">@android:color/system_neutral2_200</color>
     <color name="vertical_divider_bg">@android:color/system_neutral2_300</color>
